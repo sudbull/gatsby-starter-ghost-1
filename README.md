@@ -102,7 +102,7 @@ gatsby serve
 ```
 
 Gatsby `develop` uses the `development` config in `.ghost.json` - while Gatsby `build` uses the `production` config.
-
+[![Run on Repl.it](https://repl.it/badge/github/TryGhost/gatsby-starter-ghost)](https://repl.it/github/TryGhost/gatsby-starter-ghost)
 &nbsp;
 
 # Copyright & License
